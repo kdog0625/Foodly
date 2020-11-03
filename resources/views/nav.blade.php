@@ -1,4 +1,4 @@
-<nav class="navbar bg-dark navbar-dark navbar-expand-md fixed-top">
+<nav class="navbar bg-light shadow-none navbar-dark navbar-expand fixed-top">
 
 <a class="navbar-brand ml-5" href="#">Foodly</a>
 

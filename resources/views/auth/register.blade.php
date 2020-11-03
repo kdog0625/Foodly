@@ -3,7 +3,8 @@
 @section('title', 'ユーザー登録')
 
 @section('content')
-<div class="container" style="margin-top:50px;">
+@include('nav')
+<div class="container" style="margin-top:86px;">
     <div class="row justify-content-center">
        <div class="col-md-12">
             <div class="card">

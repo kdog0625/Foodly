@@ -22,6 +22,7 @@ class RegisterController extends Controller
     |
     */
 
+    //RegistersUsersというトレイト内で定義している機能が使える
     use RegistersUsers;
 
     /**

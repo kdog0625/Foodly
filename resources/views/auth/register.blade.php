@@ -8,7 +8,7 @@
     <div class="row justify-content-center">
        <div class="col-md-12">
             <div class="card">
-                <div class="card-header  text-center">{{ __('新規登録') }}</div>
+                <div class="card-header reg-hed text-center">{{ __('新規登録') }}</div>
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('register') }}">

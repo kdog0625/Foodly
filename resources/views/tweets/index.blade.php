@@ -6,7 +6,7 @@
 @include('nav')
 <!-- <div class="jumbotron"  style="background:url(images/bacl.jpg); background-size:cover;">
   </div> -->
-  <div class="imgwrapper"  style="margin-top:56px;">
+  <div class="imgwrapper">
    <img src="images/image01.jpg" class="img-responsive" style="width: 100%; background-size:cover">
 </div>
 <div class="container">
